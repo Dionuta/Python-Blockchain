@@ -9,7 +9,7 @@ Make sure Python 3.6+ is installed.
 <li>Install requirements</li>
 <li>$ pipenv install </li>
 
-#Run the server:
+# Run the server:
 
 <li>$ pipenv run python blockchain.py</li>
 <li>$ pipenv run python blockchain.py -p 5001</li>
