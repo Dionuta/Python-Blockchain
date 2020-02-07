@@ -4,10 +4,10 @@ Learn Blockchains by Building One
 # Installation
 
 Make sure Python 3.6+ is installed.
-Install pipenv.
-$ pip install pipenv 
-Install requirements
-$ pipenv install 
+<ul>Install pipenv.</ul>
+<li>$ pip install pipenv</li>
+<li>Install requirements</li>
+<li>$ pipenv install </li>
 
 Run the server:
 $ pipenv run python blockchain.py
