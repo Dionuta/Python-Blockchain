@@ -1,7 +1,7 @@
 # Python-Blockchain
 Learn Blockchains by Building One 
 
-# Installation
+# Installation 
 
 Make sure Python 3.6+ is installed.
 <li>Install pipenv.</li>
